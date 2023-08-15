@@ -1,11 +1,16 @@
 _repo: Physical-significance-of-entropy-or-of-the-second-law_71291
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71291-h/images/cover.jpg
 creator:
   author:
     agent_name: Klein, John Frederick
     gutenberg_agent_id: '56157'
     url: http://www.gutenberg.org/2009/agents/56157
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71291#Physical-significance-of-entropy-or-of-the-second-law
 gutenberg_issued: '2023-07-28'
 identifiers:
   gutenberg: '71291'
